@@ -1,7 +1,3 @@
-import glob
-import hashlib
-import os
-import shutil
 import sys
 
 from ggit import *

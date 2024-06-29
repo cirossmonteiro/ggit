@@ -1,3 +1,4 @@
 .ggit
 test
 *.pyc
+venv
